@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![coh's 42 stats](https://badge42.vercel.app/api/v2/cl5c9p5yl00630ajr0b21f9fl/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **cheol5/cheol5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
