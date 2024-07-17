@@ -29,10 +29,11 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br> 
-
-### 🗡 Studying
 <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white">
 
+### 🗡 Studying
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 ### 🗡 Tools
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -46,7 +47,7 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rainshowerr) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chul5&layout=compact)
   
-  ### ☘ ME
+  ### ☘ Contact
   <a href="https://velog.io/@coh" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"></a>
   <a href="mailto:och5405@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
