@@ -30,6 +30,7 @@
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/aws-1572B6?style=for-the-badge&logo=aws&logoColor=white">
 <br> 
 <img src="https://img.shields.io/badge/mysql-A8B9CC?style=for-the-badge&logo=mysql&logoColor=blue">
 <img src="https://img.shields.io/badge/oracle-F05032?style=for-the-badge&logo=oracle&logoColor=white">
