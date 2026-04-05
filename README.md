@@ -3,9 +3,9 @@
 ### 🤗 Hi there, I'm chul5
 
 🎓 I  majored ECE and SWE at Kwangwoon univ.
-  
+  <!--
 🌱 42 Seoul cadet (2022/7/4 ~ 2023/5/18)
-
+-->
 </div>
 
 <hr>
